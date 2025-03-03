@@ -24,8 +24,8 @@ A fully automated website featuring **99 fun online web games**, built using **L
 If you want to modify or self-host the site:
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/99-fun-web-games.git
-   cd 99-fun-web-games
+   git clone https://github.com/o4pixel/gameflicks.git
+   cd gameflicks
    ```
 2. Get a **GameDistribution API key** from [GameDistribution](https://gamedistribution.com/).
 3. Edit the API config in `config.js`:
